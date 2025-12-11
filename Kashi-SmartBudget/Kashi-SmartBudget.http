@@ -1,0 +1,6 @@
+@Kashi_SmartBudget_HostAddress = http://localhost:5104
+
+GET {{Kashi_SmartBudget_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
